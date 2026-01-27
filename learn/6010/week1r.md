@@ -23,3 +23,6 @@ Issue: Equitable distribution to any meaningful resource is an utopia.
 
 How to improve:
 Even after accounting for structural sources of inequality, access to educational assets has been disproportionately constrained.
+
+**Reflection on Reading:**
+It was an informative and easy to read article which provided a concise history of educational technologies with references. Easy reading.
