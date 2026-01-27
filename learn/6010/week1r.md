@@ -1,4 +1,4 @@
-# Week 1 Reflection Blog Assignment - Babar Bhatti
+# Week 1 Reflection Blog Assignment
 Read and comment on this article https://edtechbooks.org/foundations_of_learn/history_of_lidt
 
 **Scenario:** As you are a peer reviewer, the journal sent you Molenda et al’s pieceLinks to an external site. to review before publication.
