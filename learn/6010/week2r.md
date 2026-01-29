@@ -13,7 +13,7 @@ Knowledge, as I define it, has three properties:
 
 1. **Understanding** – I can explain *why* something works, not just *that* it works.  
 2. **Transferability** – I can apply it in situations that differ from where it was learned.  
-3. **Actionability** – It informs decisions and behavior in ways that produce meaningful outcomes and add value, as defined by me, in relation to my context, goals and value system.
+3. **Actionability** – It informs decisions and behavior in ways that are useful or beneficial, in relation to my context, goals, and value system.
 
 ---
 
