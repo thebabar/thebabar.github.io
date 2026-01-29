@@ -13,8 +13,7 @@ Knowledge, as I define it, has three inseparable properties:
 
 1. **Understanding** – I can explain *why* something works, not just *that* it works.  
 2. **Transferability** – I can apply it in situations that differ from where it was learned.  
-3. **Actionability** – It informs decisions and behavior in ways that produce meaningful outcomes.
-
+3. **Actionability** – It informs decisions and behavior in ways that produce meaningful outcomes and add value, , as defined by me, in relation to my context, goals and value system.
 
 ---
 
@@ -99,8 +98,6 @@ If my theory holds, Group B should:
 - perform better on novel problems  
 - improve faster and more reliably with feedback  
 
-Not because they received more content, but because their learning aligned with how humans actually come to know.
-
 ---
 
 ## Problems and Limitations Anticipated
@@ -114,7 +111,8 @@ Humans differ in goals, values, and motivation. A learner lacking purpose—or o
 Human behavior in experiments may reflect:
 - fear of judgment  
 - desire to please evaluators  
-- cultural norms around authority, failure, or uncertainty  
+- cultural norms around authority, failure, or uncertainty
+- value systems vary
 
 These factors complicate interpretation of outcomes.
 
@@ -125,11 +123,11 @@ Effective action in one environment may not transfer cleanly to another. Apparen
 Any attempt to measure knowledge risks distorting behavior. Learners may optimize for performance signals rather than understanding.
 
 ### 5. AI as Both Tool and Variable
-AI introduces a confounding factor: performance may reflect the learner’s knowledge, the tool’s capability, or their interaction. This must be acknowledged rather than ignored.
+AI introduces a confounding factor: performance may reflect the learner’s knowledge, the tool’s capability, or their interaction. 
 
 ---
 
-## Final Position
+## Summary
 
 Knowledge is not a possession—it is a **capacity**.
 
