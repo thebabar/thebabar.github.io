@@ -1,19 +1,18 @@
 # What It Means to Know: A Human-Centered Theory of Knowledge and Learning
 
-This reflection builds on my definition of what it means to be human—purpose-seeking, morally oriented, socially embedded—and applies it to questions of knowledge, learning, and how we might test whether learning has actually occurred.
+These are my thoughts on how human learning is shaped and driven by a higher order purpose and values. My objective is to highlight the importance of "purpose" without discounting other elements which are essential to learning such as economics, curiosity and personal inclinations. From a philosophical foundation, my argument focuses on axiology and ethics while acknowledging the importance of ontology and epistemology as necessary areas.
 
 ---
 
 ## What It Means to Know (My Definition)
 
-To *know* something is not merely to recall information or recognize correct answers.  
-To know is to **hold a mental model that reliably guides purposeful action across contexts**.
+I believe that knowing something is not merely to recall information, perform a set of actions (skills) or recognize correct answers. Knowing is to hold a mental model that reliably guides purposeful action across contexts. It means a person can adapt and solve previously unseen problems.
 
-Knowledge, as I define it, has three properties:
+My definition of Knowledge has three properties:
 
-1. **Understanding** – I can explain *why* something works, not just *that* it works.  
-2. **Transferability** – I can apply it in situations that differ from where it was learned.  
-3. **Actionability** – It informs decisions and behavior in ways that are useful or beneficial, in relation to my context, goals, and value system.
+1. **Understanding**: I can explain *why* something works, not just *that* it works.  
+2. **Transferability**: I can apply it in situations that differ from where it was learned.  
+3. **Actionability**: It informs decisions and behavior in ways that are useful or beneficial, in relation to my context, goals, and value system.
 
 ---
 
@@ -40,14 +39,9 @@ This process is:
 
 After engaging deeply with theory, examples, and practice, I define knowledge as:
 
-> **A well-calibrated internal model of reality that enables purposeful, ethical, and effective action under varying conditions.**
+> **A well-calibrated internal, dynamic model of reality that enables purposeful, ethical, and effective action under varying conditions.**
 
-This definition intentionally excludes:
-- rote memorization without understanding  
-- compliance-driven learning without agency  
-- correct answers that cannot be explained or transferred  
-
-Knowledge is **dynamic**, not static. It improves through use and feedback, degrades without practice, and evolves as contexts change.
+This knowledge develops over time and evolves but is always grounded by purpose and values. This definition necessitates going beyond mechanical repetition (memorization) and focus on purpose and action. 
 
 ---
 
@@ -58,7 +52,8 @@ If this theory is correct, then **knowledge should reveal itself through perform
 ### Core Hypothesis
 
 If a learner truly knows something, they should be able to:
-- explain it clearly to another person or system  
+- explain it clearly to another person or system
+- explain the purpose and value of their knowledge 
 - apply it to a novel but related problem  
 - improve their performance when given feedback  
 
@@ -108,13 +103,7 @@ Having defined what it means to be human, several challenges arise.
 Humans differ in goals, values, and motivation. A learner lacking purpose—or operating under imposed goals—may appear to fail despite having capacity to learn.
 
 ### 2. Moral and Social Context Influences Behavior
-Human behavior in experiments may reflect:
-- fear of judgment  
-- desire to please evaluators  
-- cultural norms around authority, failure, or uncertainty
-- value systems vary
-
-These factors complicate interpretation of outcomes.
+Human behavior is influenced by many factors which make it complicated to observe real behavior in experiments. One factor is definition and interpretation of values and morality. Another could be variance in cultural norms. These factors complicate interpretation of outcomes.
 
 ### 3. Knowledge Is Context-Sensitive
 Effective action in one environment may not transfer cleanly to another. Apparent failure may reflect contextual mismatch rather than lack of knowledge.
@@ -129,8 +118,6 @@ AI introduces a confounding factor: performance may reflect the learner’s know
 
 ## Summary
 
-Knowledge is not a possession—it is a **capacity**.
+To know is to act purposefully and ethically in the world, refining understanding through experience and feedback. 
 
-To know is to act purposefully and ethically in the world, refining understanding through experience and feedback. Any system that equates learning with recall, compliance, or completion misunderstands both knowledge and humanity.
 
-If learning systems are to respect what it means to be human, they must evaluate not what people can repeat—but what they can **explain, apply, and improve**.
