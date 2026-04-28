@@ -11,13 +11,15 @@ a form of assessment.
 Background:
 I modeled the study based on a microlearning product that I am building: PrimsSkills.ai
 
-This product is meant for businesses and corporate learners. Prism allows an organization to help their workforce learn AI using courses customized for their role, industry and use cases. Prism can provide on-demand learning in addition to the regular courses offered through its catalog. The interactive exercises and assessments are also contextually relevant for the learner. 
+PrismSkills is meant for businesses and corporate learners. Prism allows an organization to help their workforce learn AI using courses customized for their role, industry and use cases. Prism can provide on-demand learning in addition to the regular courses offered through its catalog. The entire content of the lessons, interactive exercises and assessments are contextually relevant for the learner. 
 
-For the purpose of this assignment I used an assessment from a course "AI Safety and Security". The course hierarchy is:
+The course hierarchy is:
 Course -> Modules -> Lessons -> Activities -> Assessment
+
 
 Here's a snippet from the course structure: 
 
+```
 "course_title": "AI Safety and Security",
   "target_audience": "Working professionals across all business functions who use AI tools and handle company data.",
   "learning_level": "Beginner",
@@ -43,16 +45,20 @@ Here's a snippet from the course structure:
     "Deepfakes",
     "Corporate Governance"
   ],
----
+  ```
+
+For the purpose of this assignment I came up with an assessment from a course "AI Safety and Security". 
+
 As I mentioned in my paper, the goal of this activity is to help the learner assess their skills. By providing a contextuall relevant scenario at the right level of learning (beginner) we help reinforce the mental model and key concept that all AI output should be verified.
 
-  Learning Goal:
+  **Learning Goal:**
   Use this activity as a simulation and enable learners to make safe, high-quality decisions when interacting with AI outputs in real workplace scenarios.
-  Objectives:
-  1-	Identify common, risky AI outputs such as inaccurate answers, hallucinations
-  2-	Adopt verification mindset (zero-trust) for AI use cases
   
-  Activity Overview:
+  **Objectives:**
+  1.	Identify common, risky AI outputs such as inaccurate answers, hallucinations
+  2.	Adopt verification mindset (zero-trust) for AI use cases
+  
+  **Activity Overview:**
   This activity is part of a microlearning course lesson. Learners have been provided the background material and now they are presented with instructions, a scenario and questions. For instance,  
   General Instructions: “You are reviewing AI outputs in a real work scenario. Your job is not to generate answers—but to decide whether to trust, verify, or reject them.”
   Instructions for exercise:
@@ -60,7 +66,7 @@ As I mentioned in my paper, the goal of this activity is to help the learner ass
   2.	Make a decision and provide a short justification.
   3.	Compare your answer with the recommended approach.
   
-  Scenario Example
+  **Scenario Example**
   AI generates a summary of a document but hallucinates and mixes results with its own knowledge. 
   Task/Question:
   -	What’s the right action to take?
@@ -73,12 +79,10 @@ As I mentioned in my paper, the goal of this activity is to help the learner ass
   -	Lesson
   -	A document, AI model, prompts
   
-  Assessment:
-  1. Decision quality
-  •	Did the learner choose the correct action? (e.g., verify vs blindly trust) 
-  2. Reasoning quality
-  •	Did they identify the correct risk (hallucination, phishing, prompt injection, etc.)? 
+  **Assessment:**
+  1. Decision quality: Did the learner choose the correct action? (e.g., verify vs blindly trust) 
+  2. Reasoning quality: Did they identify the correct risk (hallucination, phishing, prompt injection, etc.)? 
   3. Risk awareness / judgment
-  •	Did they show appropriate caution? 
-  •	Did they apply a zero-trust mindset?
+  *	Did they show appropriate caution? 
+  *	Did they apply a zero-trust mindset?
   
