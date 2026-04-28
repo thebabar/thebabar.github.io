@@ -13,6 +13,8 @@ I modeled the study based on a microlearning product that I am building: PrimsSk
 
 PrismSkills is meant for businesses and corporate learners. Prism allows an organization to help their workforce learn AI using courses customized for their role, industry and use cases. Prism can provide on-demand learning in addition to the regular courses offered through its catalog. The entire content of the lessons, interactive exercises and assessments are contextually relevant for the learner. 
 
+[![Watch the video](https://img.youtube.com/vi/RbcTBj4UUDw/0.jpg)](https://www.youtube.com/watch?v=RbcTBj4UUDw)
+
 The course hierarchy is:
 Course -> Modules -> Lessons -> Activities -> Assessment
 
